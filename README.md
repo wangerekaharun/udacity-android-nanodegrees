@@ -40,7 +40,7 @@ development.
 1. [2D Game Development with libGDX](https://www.udacity.com/course/2d-game-development-with-libgdx--ud405)
 
 
-* [Sample Android Apps For Beginners](https://github.com/MhammadAlkhalaf/udacity-android-nanodegrees/blob/master/sample-android-apps.md)
+* [Sample Android Apps For Beginners](https://github.com/muhammadAbutamim/udacity-android-nanodegrees/blob/master/sample-android-apps.md)
   
   
  ---
